@@ -1,0 +1,26 @@
+﻿  final.cpp
+c:\users\dell\source\repos\final\final.cpp(205): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\final\final.cpp(215): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\final\final.cpp(218): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\final\final.cpp(237): warning C4129: 'D': unrecognized character escape sequence
+c:\users\dell\source\repos\final\final.cpp(254): warning C4129: 'D': unrecognized character escape sequence
+c:\users\dell\source\repos\final\final.cpp(274): warning C4129: 'D': unrecognized character escape sequence
+c:\users\dell\source\repos\final\final.cpp(281): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\final\final.cpp(386): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\final\final.cpp(429): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\final\final.cpp(464): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\final\final.cpp(497): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\final\final.cpp(526): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\final\final.cpp(555): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\final\final.cpp(572): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\final\final.cpp(590): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\final\final.cpp(619): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\final\final.cpp(651): warning C4129: 'B': unrecognized character escape sequence
+c:\users\dell\source\repos\final\final.cpp(846): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\final\final.cpp(1300): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\final\final.cpp(1312): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\final\final.cpp(1466): warning C4129: 'B': unrecognized character escape sequence
+c:\users\dell\source\repos\final\final.cpp(1520): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\final\final.cpp(1773): warning C4129: 'B': unrecognized character escape sequence
+c:\users\dell\source\repos\final\final.cpp(1804): warning C4101: 'timduoc': unreferenced local variable
+  final.vcxproj -> C:\Users\DELL\source\repos\final\Debug\final.exe
